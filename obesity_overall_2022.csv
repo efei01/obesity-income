@@ -1,0 +1,52 @@
+state,region,division,prevalence,ci_lower,ci_upper
+Alabama,South,East South Central,38.3,36.3,40.3
+Alaska,West,Pacific,32.1,30.4,33.9
+Arizona,West,Mountain,33.2,31.6,34.9
+Arkansas,South,West South Central,37.4,35.6,39.2
+California,West,Pacific,28.1,26.8,29.4
+Colorado,West,Mountain,25,23.9,26.2
+Connecticut,Northeast,New England,30.6,29.1,32.1
+Delaware,South,South Atlantic,37.9,35.6,40.2
+District of Columbia,South,South Atlantic,24.3,22.2,26.5
+Florida,South,South Atlantic,31.6,29.9,33.4
+Georgia,South,South Atlantic,37,35.4,38.7
+Hawaii,West,Pacific,25.9,24.4,27.4
+Idaho,West,Mountain,33.2,31.7,34.7
+Illinois,Midwest,East North Central,33.4,31.5,35.3
+Indiana,Midwest,East North Central,37.7,36.4,38.9
+Iowa,Midwest,West North Central,37.4,36,38.8
+Kansas,Midwest,West North Central,35.7,34.4,37
+Kentucky,South,East South Central,37.7,35.6,39.9
+Louisiana,South,West South Central,40.1,38.3,41.9
+Maine,Northeast,New England,33.1,31.8,34.5
+Maryland,South,South Atlantic,33.2,31.9,34.4
+Massachusetts,Northeast,New England,27.2,26,28.5
+Michigan,Midwest,East North Central,34.5,33.2,35.8
+Minnesota,Midwest,West North Central,33.6,32.6,34.7
+Mississippi,South,East South Central,39.5,37.5,41.4
+Missouri,Midwest,West North Central,36.4,34.9,38
+Montana,West,Mountain,30.5,29.1,32
+Nebraska,Midwest,West North Central,35.3,33.7,36.9
+Nevada,West,Mountain,33.5,31,36.2
+New Hampshire,Northeast,New England,30.2,28.6,32
+New Jersey,Northeast,Middle Atlantic,29.1,27.6,30.7
+New Mexico,West,Mountain,32.4,30.5,34.4
+New York,Northeast,Middle Atlantic,30.1,29.1,31.2
+North Carolina,South,South Atlantic,34.1,32.1,36.1
+North Dakota,Midwest,West North Central,35.4,33.6,37.3
+Ohio,Midwest,East North Central,38.1,37,39.3
+Oklahoma,South,West South Central,40,38.4,41.6
+Oregon,West,Pacific,30.9,29.4,32.4
+Pennsylvania,Northeast,Middle Atlantic,33.4,31.2,35.5
+Rhode Island,Northeast,New England,30.8,29.1,32.7
+South Carolina,South,South Atlantic,35,33.6,36.4
+South Dakota,Midwest,West North Central,36.8,33.5,40.1
+Tennessee,South,East South Central,38.9,37.1,40.8
+Texas,South,West South Central,35.5,34,37.1
+Utah,West,Mountain,31.1,29.9,32.4
+Vermont,Northeast,New England,26.8,25.4,28.3
+Virginia,South,South Atlantic,35.2,33.8,36.6
+Washington,West,Pacific,31.7,30.9,32.5
+West Virginia,South,South Atlantic,41,39.3,42.8
+Wisconsin,Midwest,East North Central,37.7,36.4,39
+Wyoming,West,Mountain,34.3,32.3,36.2
